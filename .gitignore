@@ -1,0 +1,13 @@
+/data/
+/texts/
+/test_corpus/
+/. bundle/
+/.bundle/
+/vendor/bundle/
+*.sqlite3
+*.sqlite3-*
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+*.lock
